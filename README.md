@@ -10,6 +10,9 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengzangw&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![PR0CK0's GitHub stats](https://github-readme-stats.vercel.app/api?username=pr0ck0&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!---
 zhengzangw/zhengzangw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
