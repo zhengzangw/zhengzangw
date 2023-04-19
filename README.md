@@ -10,7 +10,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengzangw&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![PR0CK0's GitHub stats](https://github-readme-stats.vercel.app/api?username=pr0ck0&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![PR0CK0's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengzangw&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
