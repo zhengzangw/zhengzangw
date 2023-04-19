@@ -4,7 +4,7 @@
 - 🎓 Conducting research on **Efficient Maching Learning**, **ML Optimization**.
 - 💡 Have a wide interest on applications of **NLP**, **CV**, **Rec**, **RL**, ...
 - 👀 Open to collaborating on new projects.
-- 💬 Visit my [homepage]([https://procko.pro](https://zhengzangw.github.io/)) for more information.
+- 💬 Visit my [homepage](https://zhengzangw.github.io/) for more information.
 
 <br>
 
