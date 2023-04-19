@@ -1,5 +1,12 @@
-- 👋 Hi, I’m @zhengzangw
-- 👀 I’m interested in efficient machine learning.
+**Hello there!** This is the Github page of Alex Zangwei Zheng.
+
+- 📖 Pursuing PhD in CS at National University of Singapore.
+- 🎓 Conducting research on **Efficient Maching Learning**, **ML Optimization**.
+- 💡 Have a wide interest on applications of **NLP**, **CV**, **Rec**, **RL**, ...
+- 👀 Open to collaborating on new projects.
+- 💬 Visit my [homepage]([https://procko.pro](https://zhengzangw.github.io/)) for more information.
+
+<br>
 
 <!---
 zhengzangw/zhengzangw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
