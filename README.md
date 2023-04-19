@@ -8,7 +8,7 @@
 
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengzangw&show_icons=true&theme=radical&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengzangw&show_icons=true&theme=radical)
 
 <!---
 zhengzangw/zhengzangw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
