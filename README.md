@@ -1,6 +1,6 @@
-**Hello there!** This is the Github page of Alex Zangwei Zheng.
+**Hello there!** This is the Github page of Zangwei Zheng (Alex).
 
-- 📖 Pursuing PhD in CS at National University of Singapore.
+- 📖 Pursuing PhD in CS at the National University of Singapore.
 - 🎓 Conducting research on **Efficient Maching Learning**, **ML Optimization**.
 - 💡 Have a wide interest on applications of **NLP**, **CV**, **Rec**, **RL**, ...
 - 👀 Open to collaborating on new projects.
