@@ -1,9 +1,4 @@
-**Hello there!** This is the Github page of Zangwei Zheng (Alex).
-
-- 🎓 Conducting research on **Efficient Maching Learning**, **ML Optimization**.
-- 💡 Have a wide interest on applications of **NLP**, **CV**, **Rec**, **RL**, ...
-- 👀 Open to collaborating on new projects.
-- 💬 Visit my [homepage](zangwei.dev) for more information.
+👋 Hi, I’m Zangwei Zheng. More about me at [zangwei.dev](zangwei.dev).
 
 <br>
 
