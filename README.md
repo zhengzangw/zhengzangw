@@ -1,1 +1,1 @@
-👋 Hi, I’m Zangwei Zheng. More about me at [zangwei.dev](zangwei.dev).
+👋 Hi, I’m Zangwei Zheng. More about me at [zangwei.dev](https://zangwei.dev).
